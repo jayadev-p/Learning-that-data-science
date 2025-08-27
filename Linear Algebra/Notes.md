@@ -1,11 +1,8 @@
-## 1 Geometry of linear equations
+## 1.  Geometry of linear equations
 Row Form - Ax = b
 
 Column Form - Linear equation of vectors
 
-Line 1  
-Line 2  
 
-Line 3
+## 2.  Elimination with matrices
 
-Line 4
