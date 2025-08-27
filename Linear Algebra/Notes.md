@@ -3,4 +3,4 @@ Row Form - Ax = b
 
 Column Form - Linear equation of vectors
 
-`Inline code`
+- [x] Completed task
