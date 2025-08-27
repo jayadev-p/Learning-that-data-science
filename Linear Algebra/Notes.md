@@ -6,5 +6,6 @@ Column Form - Linear equation of vectors
 Line 1  
 Line 2  
 
-Line 3 (blank line between)
+Line 3
+
 Line 4
