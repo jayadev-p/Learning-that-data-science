@@ -2,6 +2,7 @@
 Row Form - Ax = b
 
 Column Form - Linear equation of vectors
+
 Inline: $E = mc^2$
 
 Block:
