@@ -3,4 +3,4 @@ Row Form - Ax = b
 
 Column Form - Linear equation of vectors
 
-:smile: :heart: :rocket:
+Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy
