@@ -2,5 +2,6 @@
 Row Form - Ax = b
 
 Column Form - Linear equation of vectors
+[Reference link][1]
 
-![Image alt text](image.jpg)
+[1]: https://example.com
