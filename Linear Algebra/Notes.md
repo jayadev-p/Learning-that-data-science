@@ -3,9 +3,6 @@ Row Form - Ax = b
 
 Column Form - Linear equation of vectors
 
-<details>
-<summary>Click to expand</summary>
+Here's a sentence with a footnote.[^1]
 
-Hidden content here
-
-</details>
+[^1]: This is the footnote.
