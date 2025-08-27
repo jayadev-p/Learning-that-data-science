@@ -12,4 +12,14 @@ Backward substitution for solution
 > Matrix Multiplication  
 > Matrix \* Column/vector = column/vector  
 > row vector \* matrix = row vector  
-> matrix \* matrix = matrix (multiply row of left with column of right)  
+> matrix \* matrix = matrix (multiply row of left with column of right)
+
+Elimination process can be represented as multipling a Elimination matrix to my Co-eff matrix recursively
+
+Idea of permutation matrix (exchange rows/columns of a matrix)  
+
+A \* B <> B \* A  
+Multiplying on left side is not the same as multiplying on right side  
+Left side multiplication operates on rows of the original matrix  
+Right side multiplication operates on column of the origianl matrix  
+Idea of Identity matrix and inverse matrix  
