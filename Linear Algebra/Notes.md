@@ -3,4 +3,4 @@ Row Form - Ax = b
 
 Column Form - Linear equation of vectors
 
-- [x] Completed task
+![Image alt text](image.jpg)
