@@ -3,5 +3,9 @@ Row Form - Ax = b
 
 Column Form - Linear equation of vectors
 
-\*Escape asterisks\*
-\# Escape headers
+<details>
+<summary>Click to expand</summary>
+
+Hidden content here
+
+</details>
